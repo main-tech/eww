@@ -1,7 +1,7 @@
 
 # Eww - Elkowars Wacky Widgets
 
-This is  my config for Eww (Elkowars Wacky Widgets), a standalone widget systemdeveloped 
+This is  my config for Eww (Elkowars Wacky Widgets), a standalone widget system developed 
 in Rust which allows you to implement your own custom widgets for any window manager.
 
 ## Dependencies
